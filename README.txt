@@ -8,4 +8,4 @@ The book is an obj file containing only vertexs. Disabling it by pressing M will
 
 An anti-aliasing method might be implemented later.
 
-Alexandre NGUYEN, Hugo NOUYOUX3D_engine
+Alexandre NGUYEN, Hugo NOUYOUX

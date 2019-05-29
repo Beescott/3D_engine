@@ -1,0 +1,25 @@
+﻿  Cube.cpp
+  Matrix3.cpp
+  Mesh.cpp
+  MeshCube.cpp
+  MoteurPhysique.cpp
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(215): warning C4305: 'argument' : troncation de 'double' à 'GLclampf'
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(230): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(256): warning C4305: 'argument' : troncation de 'double' à 'const float'
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(356): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(357): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(374): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(375): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(382): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(383): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Object.cpp
+  Plane.cpp
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\plane.cpp(26): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Sphere.cpp
+  Triangle.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Vertex.cpp
+  Génération de code en cours...
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\vector3.cpp(137): warning C4715: 'Vector3::operator[]' : les chemins de contrôle ne retournent pas tous une valeur
+  MoteurPhysique.vcxproj -> C:\Users\Hugo Nouyoux\Documents\Programmation\Git\AlgorithmeGeometrique\MoteurPhysique\x64\Debug\MoteurPhysique.exe

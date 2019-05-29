@@ -1,0 +1,21 @@
+﻿  MoteurPhysique.cpp
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(109): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(117): warning C4305: 'argument' : troncation de 'double' à 'const float'
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(321): warning C4305: 'argument' : troncation de 'double' à 'GLclampf'
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(336): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(481): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(482): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(499): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(500): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(507): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\hugo nouyoux\documents\programmation\git\algorithmegeometrique\moteurphysique\moteurphysique\moteurphysique.cpp(508): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  6 of 829 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  MoteurPhysique.vcxproj -> C:\Users\Hugo Nouyoux\Documents\Programmation\Git\AlgorithmeGeometrique\MoteurPhysique\x64\Release\MoteurPhysique.exe
